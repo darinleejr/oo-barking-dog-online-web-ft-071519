@@ -7,6 +7,7 @@ class Dog
     @my_name
   end
   
-  def 
+  def bark
+    puts "W"
 end
 
